@@ -1,0 +1,24 @@
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+    font-size: 32px; 
+}
+
+.container-fluid {
+  margin-top: 30px;
+}
+
+body {
+  background: #0F0F0F;
+}
+
+#id {
+  background: red;
+}
+
+.message {
+  background: silver;  
+  font-size: 16px;
+  border-radius: 16px;
+}
+
