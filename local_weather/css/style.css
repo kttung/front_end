@@ -1,0 +1,26 @@
+#weatherbox {
+  color: white;
+  margin-top: 20px;
+  background: black; 
+  border-radius: 15px;
+  border: none;
+}
+
+#city {
+  font-size: 24px;
+}
+
+#degree {
+  color: white;
+  font-size: 36px;
+  background: none;
+}
+
+#description {
+  font-size: 18px;
+}
+
+
+body {
+  background: black;
+}
