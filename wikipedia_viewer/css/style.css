@@ -1,0 +1,45 @@
+body {
+  background: black;  
+  color: white;
+}
+
+button {
+  background: none;
+  border: none;
+}
+#sbox {
+  width:60%;
+}
+
+#results {
+  margin: 20px 20px 20px 20px;
+  font-size: 16px;
+}
+
+.searchmatch {
+  color: yellow;
+}
+
+#randompage {
+  margin-top: 20px;  
+  font-size: 24px;
+}
+
+#search {
+  margin-top: 20px;  
+  font-size: 24px;
+}
+
+input {
+  color: black;
+}
+
+a:link, a:visited{
+  color: white;
+  text-decoration: none;
+}
+
+.logo {
+  width: 100%;
+  padding: 5%;
+}
