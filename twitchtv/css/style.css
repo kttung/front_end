@@ -1,0 +1,46 @@
+body {
+  background: #0091EA;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}  
+
+a:link, a:visited, a:hover, a:active {
+    color: white;
+}
+
+.twheader {
+  margin-top:20px;
+}
+
+.twrow {
+  height: 120px;
+  margin: 0px -3px 0px 0px;
+  padding: 10px 0px 10px 0px;
+}
+
+.twcontent {
+  font-family:lato;
+  background: #01579B;
+  padding:10px 0px 10px 0px;
+}  
+
+input[type=radio] {
+  display: none;
+}
+
+input[type=radio]:checked + label{
+  background: #01579B;
+}
+
+label {
+  font-family:lato;
+  font-size:16px;
+  cursor: pointer; 
+  display: inline-block;
+  padding: 5px 10px;
+  margin: 0px 0px;
+}
+
